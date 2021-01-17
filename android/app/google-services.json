@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961361361707",
+    "project_id": "den-den-mushi-chat-app",
+    "storage_bucket": "den-den-mushi-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961361361707:android:1f3180b0a938337574a36e",
+        "android_client_info": {
+          "package_name": "com.example.denden_mushi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961361361707-ao311qlo8engpe4em2cq4g5bra4jv6ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfwdIHyb5_r2zw9tA0R3rMzD2fUl9yq9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961361361707-ao311qlo8engpe4em2cq4g5bra4jv6ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
